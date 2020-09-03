@@ -8,8 +8,6 @@ Class {
 		'methodDict',
 		'format',
 		'instVarNames',
-		'x',
-		'y',
 		'name'
 	],
 	#category : 'as yet unclassified'
